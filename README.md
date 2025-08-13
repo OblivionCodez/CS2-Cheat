@@ -29,6 +29,6 @@ If you have any questions feel free to join the server: https://discord.gg/2FYkh
 
 You can always dm me as well
 
-Updated TUE, 12th AUG 2025
+Updated WED, 13th AUG 2025
 
 <img width="1469" height="628" alt="image" src="https://github.com/user-attachments/assets/f20ce6ae-cf98-4a71-a384-2bf2891e5f5a" />
