@@ -3,31 +3,7 @@ Basic CS2 cheat
 
 A basic Counter-Strike 2 cheat for educational purposes.
 
-[CS2 FULL]
-
-Player esp
-
-World esp
-
-Aimbot
-
-Triggerbot
-
-[CS2 LITE]
-
-Legit player esp
-
-Objective esp
-
-Legit aimbot
-
-
-
-I update this cheat often so don't worry if the game updates
-
-If you have any questions feel free to join the server: https://discord.gg/2FYkhddUgD
-
-You can always dm me as well
+I have been really busy recently, so I will code something for you all to go off to create your own cheat
 
 Updated THU, 14th AUG 2025
 
